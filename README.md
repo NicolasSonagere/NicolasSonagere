@@ -12,24 +12,23 @@
 
 
 
-# WELLCOME, I'M NICOLAS SONAGERE
+# WELLCOME! I'M NICOLAS SONAGERE! 💻⭐
 
-### A bit features about me
+### Some curiosities about me
 
 - 🔭 I am currently part of the ETS team at BOSCH.
 - 👨‍🎓 Study Analysis and development of systems at the Federal Institute of Hortolândia.
-- 💬 Pergunte-me sobre o que tiver duvida.
-- ⚡ Curiosidade: Sou nascido no Japão, mas não tenho nacionalidade brasileira
+- ⭐ My biggest goal is to achieve a good career in the IT area.
+- ⚡ Fun fact: I started my programming studies through PowerShell.
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
+<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"/> </code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> </code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> </code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
           
           
@@ -44,10 +43,9 @@
 
 
 <div>
-<a href="https://github.com/NicolasSonagere">
-<img loading="lazy" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSonagere&layout=donut-vertical"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasSonagere&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
+  <a href="https://github.com/NicolasSonagere">
+    <img loading="lazy" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSonagere&layout=donut-vertical"/>
+  </a>
 </div>
 
 <br/>
