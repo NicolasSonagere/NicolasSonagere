@@ -15,7 +15,6 @@
 <h1>WELLCOME! I'M NICOLAS SONAGERE! 💻⭐ </h1>
 </div>
 
-<hr>
 ### Some curiosities about me
 
 🔭 I am currently part of the ETS team at BOSCH.
@@ -27,6 +26,7 @@
 ⚡ Fun fact: I started my programming studies through PowerShell.
 
 <br>
+<hr>
 
 <h3>🖥️ Tecnologies and Tools:  </h3>
 
