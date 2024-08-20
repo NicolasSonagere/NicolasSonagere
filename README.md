@@ -11,8 +11,9 @@
 </div>
 
 
-
-# WELLCOME! I'M NICOLAS SONAGERE! 💻⭐
+<center>
+  # WELLCOME! I'M NICOLAS SONAGERE! 💻⭐
+</center>
 
 ### Some curiosities about me
 
