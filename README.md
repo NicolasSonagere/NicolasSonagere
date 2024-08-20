@@ -12,7 +12,7 @@
 
 
 <div align = "center">
-# WELLCOME! I'M NICOLAS SONAGERE! 💻⭐
+<h1>WELLCOME! I'M NICOLAS SONAGERE! 💻⭐ </h1>
 </div>
 
 ### Some curiosities about me
