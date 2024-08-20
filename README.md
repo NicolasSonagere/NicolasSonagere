@@ -15,6 +15,7 @@
 <h1>WELLCOME! I'M NICOLAS SONAGERE! 💻⭐ </h1>
 </div>
 
+<hr>
 ### Some curiosities about me
 
 🔭 I am currently part of the ETS team at BOSCH.
