@@ -22,8 +22,13 @@
 - ⭐ My biggest goal is to achieve a good career in the IT area.
 - ⚡ Fun fact: I started my programming studies through PowerShell.
 
+<br>
+<br>
+
 <div align = "center">
 <h3>🖥️ Tecnologies and Tools:  </h3>
+
+<br>
 
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" title = "POWERSHELL"/> </code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "PYTHON"/> </code>
