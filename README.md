@@ -23,7 +23,6 @@
 - ⚡ Fun fact: I started my programming studies through PowerShell.
 
 <br>
-<br>
 
 <h3>🖥️ Tecnologies and Tools:  </h3>
 
@@ -34,8 +33,7 @@
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 
-          
-          
+
 ## Contatos:
 
 📫 Você pode falar comigo pelo [Email](sonagere.nicolas@gmail.com) ou pelo [Linkedin](https://br.linkedin.com/in/nicolas-sonagere-de-souza) 
