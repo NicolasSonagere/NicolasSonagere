@@ -11,9 +11,9 @@
 </div>
 
 
-<center>
-  # WELLCOME! I'M NICOLAS SONAGERE! 💻⭐
-</center>
+<div align = "center">
+# WELLCOME! I'M NICOLAS SONAGERE! 💻⭐
+</div>
 
 ### Some curiosities about me
 
