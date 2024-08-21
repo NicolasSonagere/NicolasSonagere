@@ -25,7 +25,6 @@
 <br>
 ⚡ Fun fact: I started my programming studies through PowerShell.
 
-<br>
 <hr>
 
 <h3>🖥️ Tecnologies and Tools:  </h3>
@@ -40,7 +39,7 @@
 
 ## Contatos:
 
-📫 Você pode falar comigo pelo [Email](sonagere.nicolas@gmail.com) ou pelo [Linkedin](https://br.linkedin.com/in/nicolas-sonagere-de-souza) 
+📫 You can contact me at [Email](sonagere.nicolas@gmail.com) or [Linkedin](https://br.linkedin.com/in/nicolas-sonagere-de-souza) 
 </br>
 
 
