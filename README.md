@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Dorivis">
+  <a href="https://github.com/NicolasSonagere">
     <img src="logo.png" height="250" width="250" alt="Unform" />
   </a>
 </p>
@@ -37,7 +37,7 @@
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <hr>
 
-## Contacts:
+## 📖 Contacts:
 
 📫 You can contact me at [Email](sonagere.nicolas@gmail.com) or [Linkedin](https://br.linkedin.com/in/nicolas-sonagere-de-souza) 
 </br>
