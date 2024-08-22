@@ -11,7 +11,7 @@
 
 
 <div align = "center">
-<h1>WELLCOME! I'M NICOLAS SONAGERE! 💻⭐ </h1>
+<h1>Wellcome! I'm Nicolas Sonagere! 💻⭐ </h1>
 </div>
 
 ### Some curiosities about me
