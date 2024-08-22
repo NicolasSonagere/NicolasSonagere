@@ -35,9 +35,11 @@
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <hr>
 
-<h3> 📖 Contacts: </h3>
+
 
 <div align="center">
+	<h3> 📖 Contacts: </h3>
+	<br\>
         <p align="center">
       	<br />
       	<a href="https://br.linkedin.com/in/nicolas-sonagere-de-souza">
