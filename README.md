@@ -37,7 +37,31 @@
 
 <h3> 📖 Contacts: </h3>
 
-📫 You can contact me at [Email](sonagere.nicolas@gmail.com) or [Linkedin](https://br.linkedin.com/in/nicolas-sonagere-de-souza) 
+<div align="center">
+        <p align="center">
+      	<br />
+      	<a href="https://www.linkedin.com/in/igorbedon/">
+          <img
+      			src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      			alt="LinkedIn" />
+        </a>&nbsp;
+      	<a href="mailto:igorbedon@gmail.com?">
+          <img
+      			src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"
+      			alt="Gmail" />
+        </a>&nbsp;
+        <a href="https://discordapp.com/users/463126618010025985">
+          <img
+      			src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
+      			alt="Discord" />
+        </a>&nbsp;
+        <a href="#">
+          <img
+      			src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"
+      			alt="LinkTree" />
+        </a>&nbsp;
+      </p>
+</div>
 </br>
 
 
