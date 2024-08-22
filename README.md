@@ -36,7 +36,7 @@
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <hr>
 
-## 📖 Contacts:
+<h3> 📖 Contacts: </h3>
 
 📫 You can contact me at [Email](sonagere.nicolas@gmail.com) or [Linkedin](https://br.linkedin.com/in/nicolas-sonagere-de-souza) 
 </br>
