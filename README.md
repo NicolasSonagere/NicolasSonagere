@@ -16,11 +16,11 @@
 
 ### Some curiosities about me
 
-<div style="display: flex; justify-content: space-between; flex-direction: column; line-height: 1.5;">
-    🔭 I am currently part of the ETS team at BOSCH.
-    👨‍🎓 Study Analysis and development of systems at the Federal Institute of Hortolândia.
-    ⭐ My biggest goal is to achieve a good career in the IT area.
-    ⚡ Fun fact: I started my programming studies through PowerShell.
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <p> I am currently part of the ETS team at BOSCH.</p>
+  <p>‍ Study Analysis and development of systems at the Federal Institute of Hortolândia.</p>
+  <p>⭐ My biggest goal is to achieve a good career in the IT area.</p>
+  <p>⚡ Fun fact: I started my programming studies through PowerShell.</p>
 </div>
 
 <hr>
