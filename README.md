@@ -16,7 +16,7 @@
 
 ### Some curiosities about me
 
-<div style="display:flex&justify-content:space-beetween&flex-direction:collumn">
+<div style="display:flex, justify-content:space-beetween, flex-direction:collumn">
 	🔭 I am currently part of the ETS team at BOSCH.
 	👨‍🎓 Study Analysis and development of systems at the Federal Institute of Hortolândia.
 	⭐ My biggest goal is to achieve a good career in the IT area.
