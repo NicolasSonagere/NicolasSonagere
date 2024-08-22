@@ -37,10 +37,9 @@
 
 
 
-<div align="center">
+<div>
 	<h3> 📖 Contacts: </h3>
 	<br\>
-        <p align="center">
       	<br />
       	<a href="https://br.linkedin.com/in/nicolas-sonagere-de-souza">
           <img
@@ -52,7 +51,6 @@
       			src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"
       			alt="Gmail" />
         </a>&nbsp;
-      </p>
 </div>
 <img
 	width="100%"
