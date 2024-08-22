@@ -1,6 +1,6 @@
 <img
 	width="100%"
-	src="https://capsule-render.vercel.app/api?type=waving&color=7D232F&height=100&section=header"
+	src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=100&section=header"
 />
 
 <div display="inline-block">
