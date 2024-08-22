@@ -16,13 +16,12 @@
 
 ### Some curiosities about me
 
-🔭 I am currently part of the ETS team at BOSCH.
-<br>
-👨‍🎓 Study Analysis and development of systems at the Federal Institute of Hortolândia.
-<br>
-⭐ My biggest goal is to achieve a good career in the IT area.
-<br>
-⚡ Fun fact: I started my programming studies through PowerShell.
+<div style="display:flex&justify-content:space-beetween&flex-direction:collumn">
+	🔭 I am currently part of the ETS team at BOSCH.
+	👨‍🎓 Study Analysis and development of systems at the Federal Institute of Hortolândia.
+	⭐ My biggest goal is to achieve a good career in the IT area.
+	⚡ Fun fact: I started my programming studies through PowerShell.
+</div>
 
 <hr>
 
