@@ -1,8 +1,7 @@
-<p align="center">
-  <a href="https://github.com/NicolasSonagere">
-    <img src="logo.png" height="250" width="250" alt="Unform" />
-  </a>
-</p>
+<img
+	width="100%"
+	src="https://capsule-render.vercel.app/api?type=waving&color=7D232F&height=100&section=header"
+/>
 
 <div display="inline-block">
 
