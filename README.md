@@ -18,7 +18,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <p>🔭 I am currently part of the ETS team at BOSCH.</p>
-  <p>‍👨‍🎓 Study Analysis and development of systems at the Federal Institute of Hortolândia.</p>
+  <p>‍👨‍🎓 Study Analysis and development of systems at the Wyden Unifavip.</p>
   <p>⭐ My biggest goal is to achieve a good career in the IT area.</p>
   <p>⚡ Fun fact: I started my programming studies through PowerShell.</p>
 </div>
